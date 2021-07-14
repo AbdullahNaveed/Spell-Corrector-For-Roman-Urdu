@@ -20,7 +20,7 @@
 The goal of this project was to implement spell corrector for Roman Urdu, 
 using Noisy Channel based on Bayes Theorem.
 
-* Data is not uploaded due to upload size limit!
+* Training Data is not uploaded!
     
 Files include:
 
